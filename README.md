@@ -49,5 +49,10 @@ This home page code is open source and available under the [MIT License](LICENSE
 
 ## Contact
 
-For any inquiries or further information, please contact [your contact information or social media handles].
+For any inquiries or further information, please contact [<img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" width="16" height="16">](https://www.t.me/rysbeck)
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" width="16" height="16">](https://www.instagram.com/orozaliev.rsb/)
+[<img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp" width="16" height="16">](https://wa.me/+971586014711)
+[<img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="16" height="16">](https://m.me/rysbeck)
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="16" height="16">](https://www.linkedin.com/in/rysbeck-orozaliev/)
+[<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="LinkedIn" width="16" height="16">](mailto:rysbeck1@gmail.com).
 

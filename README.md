@@ -1,6 +1,6 @@
 # Home-page
 
-# Home Page
+![Home Page GIF](https://github.com/rysbeck/Home-page/blob/main/video.gif)
 
 This is the home page for your website. It includes a header, navigation, and forms for login and registration. The page is designed using HTML, CSS, and JavaScript.
 
